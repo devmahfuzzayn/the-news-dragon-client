@@ -1,0 +1,16 @@
+.right-nav-bg {
+    position: relative;
+}
+
+.right-nav-bg .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 267px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
